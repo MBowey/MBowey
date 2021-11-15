@@ -7,9 +7,10 @@
 
 A little about me:
 
-- 🖥 Working on a Web3 Real Estate Project
-- 🌱 Currently enrolled in ConsenSys Acdademy's Blockchain Development Bootcamp
+- 🛠 Currently working on a Web3 Real Estate Project
+- 🖥 Developer DAO Member - Focused on accelerating the education and impact of Web3 Builders
+- 🌱 Enrolled in ConsenSys Academy's Blockchain Development Bootcamp
 - 📚 Completed Columbia Engineering's FinTech Bootcamp (Data Analysis, Machine Learning & Blockchain Technology)
-- 🤝 Looking to collaborate on building out DAOs, Decentralized Applications & Smart Contract Development
-- 🔭 I’m looking for help with Front-End Development (HTML, CSS, JavaScript, React, Redux, Next.js, etc.)
+- 🤝 Open to collaborate on building out DAOs, Decentralized Applications & Smart Contract Development
+- ❓ Looking for help with Front-End Development (HTML, CSS, JavaScript, React, Redux, Next.js, etc.)
 - ⚡ Fun fact: I use to work in Commercial Real Estate building & managing downtown office towers around the world
