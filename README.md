@@ -13,4 +13,4 @@ A little about me:
 - 🎓 Completed Columbia Engineering's FinTech Bootcamp (Data Analysis, Machine Learning & Blockchain Technology)
 - 🤝 Open to collaborate on building out DAOs, Decentralized Applications & Smart Contract Development
 - ❓ Looking for help with Front-End Development (HTML, CSS, JavaScript, React, Redux, Next.js, etc.)
-- ⚡ Fun fact: I use to work in Commercial Real Estate building & managing downtown office towers around the world
+- 🏢 Fun fact: I use to work in Commercial Real Estate building & managing downtown office towers around the world
