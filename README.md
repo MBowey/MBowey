@@ -12,5 +12,5 @@ A little about me:
 - 🌱 Certified Ethereum Developer (ConsenSys Academy's Blockchain Development Bootcamp)
 - 🎓 Completed Columbia Engineering's FinTech Bootcamp (Data Analysis, Machine Learning & Blockchain Technology)
 - 🤝 Open to collaborate on building out DAOs, Decentralized Applications & Smart Contract Development
-- ❓ Looking for help with Front-End Development (HTML, CSS, JavaScript, React, Redux, Next.js, etc.)
-- 🏢 Fun fact: I use to work in Commercial Real Estate building & managing downtown office towers around the world
+- 📚 Honing my Front-End skills (HTML, CSS, JavaScript, React, etc.)
+- 🏢 Fun fact: I use to work in Commercial Real Estate building & managing downtown office towers around the world and was a DJ once upon a time
